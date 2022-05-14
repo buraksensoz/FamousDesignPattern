@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamousDesignPattern.Singleton", "FamousDesignPattern.Singleton\FamousDesignPattern.Singleton.csproj", "{70178DE8-7A58-4AE3-ADEA-915F3DBF5C9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamousDesignPattern.Strategy", "FamousDesignPattern.Strategy\FamousDesignPattern.Strategy.csproj", "{0E5C26AD-2BFA-4950-A533-EC18F8137153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamousDesignPattern.Adapter", "FamousDesignPattern.Adapter\FamousDesignPattern.Adapter.csproj", "{A4C3C275-A00A-4061-B6E4-94A7D0F55289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamousDesignPattern.AbstractFactory", "FamousDesignPattern.AbstractFactory\FamousDesignPattern.AbstractFactory.csproj", "{EEB796B4-B0AE-4D6C-8879-172494497CED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamousDesignPattern.Observer", "FamousDesignPattern.Observer\FamousDesignPattern.Observer.csproj", "{BD2DB0DB-36E4-4D9D-A9FA-44D97D3E436C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamousDesignPattern.Prototype", "FamousDesignPattern.Prototype\FamousDesignPattern.Prototype.csproj", "{B13DA900-4392-4B3C-8E0A-5E2AF7F9D68B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70178DE8-7A58-4AE3-ADEA-915F3DBF5C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70178DE8-7A58-4AE3-ADEA-915F3DBF5C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70178DE8-7A58-4AE3-ADEA-915F3DBF5C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70178DE8-7A58-4AE3-ADEA-915F3DBF5C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5C26AD-2BFA-4950-A533-EC18F8137153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5C26AD-2BFA-4950-A533-EC18F8137153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5C26AD-2BFA-4950-A533-EC18F8137153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5C26AD-2BFA-4950-A533-EC18F8137153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C3C275-A00A-4061-B6E4-94A7D0F55289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C3C275-A00A-4061-B6E4-94A7D0F55289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C3C275-A00A-4061-B6E4-94A7D0F55289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C3C275-A00A-4061-B6E4-94A7D0F55289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB796B4-B0AE-4D6C-8879-172494497CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB796B4-B0AE-4D6C-8879-172494497CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB796B4-B0AE-4D6C-8879-172494497CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB796B4-B0AE-4D6C-8879-172494497CED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2DB0DB-36E4-4D9D-A9FA-44D97D3E436C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2DB0DB-36E4-4D9D-A9FA-44D97D3E436C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2DB0DB-36E4-4D9D-A9FA-44D97D3E436C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2DB0DB-36E4-4D9D-A9FA-44D97D3E436C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B13DA900-4392-4B3C-8E0A-5E2AF7F9D68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13DA900-4392-4B3C-8E0A-5E2AF7F9D68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13DA900-4392-4B3C-8E0A-5E2AF7F9D68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13DA900-4392-4B3C-8E0A-5E2AF7F9D68B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40AD2DFA-10EF-4526-BEE6-7885845F4D3A}
+	EndGlobalSection
+EndGlobal
